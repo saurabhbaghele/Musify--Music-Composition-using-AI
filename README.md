@@ -17,8 +17,7 @@ The model-generated music need not be professional, as long as it is melodious a
 * Output- New sequence of musical events/notes.
 
 ## File Structure
-* **All Midi Files** -> This is the dataset folder containing various midi files of different composers.
-* **MOD/** -> This directory contains optimizer, metrics, and weights of our trained model.
+* **All Midi Files** -> This is the dataset zip folder containing various midi files of different composers.
 * **music_composition_code.ipynb** -> In this file, we will build, train and test our model.
 * **Composed_music_output.mid** -> This is a music file of predicted notes.
 
