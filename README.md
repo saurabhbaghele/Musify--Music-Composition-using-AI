@@ -1,4 +1,4 @@
-# Seasons of Code (SOC) - Project
+# Seasons of Code (SOC) - Project ( May 2022 - July 2022)
 This repository contains the code for the project I completed for the Seasons of Code 2022, hosted by Web and Coding Club, IIT Bombay.
 
 # MUSIFY- Music-Composition-Using-AI
