@@ -1,2 +1,5 @@
-# Musify--Music-Composition-using-AI
-The repository is for the project to be submitted under WnCC, Seasons of Code (SOC) 2022, IIT Bombay. The Project has been developed to create new piece of music using Piano Notes
+# WNCC - Seasons of Code (SOC)
+This repository contains the code for the project I completed for the Seasons of Code 202, hosted by Web and Coding Club, IIT Bombay.
+
+# MUSIFY- Music generation using AI
+This repo aims to generate a totally new piece of audio file (music) by training a LSTM network using a set of midi audio music files(piano notes).
