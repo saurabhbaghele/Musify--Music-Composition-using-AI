@@ -43,3 +43,6 @@ The model-generated music need not be professional, as long as it is melodious a
  - [Want to Generate your own Music using Deep Learning?](https://www.analyticsvidhya.com/blog/2020/01/how-to-perform-automatic-music-generation/)
  - [Music Generation Using Deep Learning](https://medium.com/mlearning-ai/music-generation-using-deep-learning-49692851c57c)
 
+## Authors
+
+- [@saurabhbaghele](https://github.com/saurabhbaghele)
