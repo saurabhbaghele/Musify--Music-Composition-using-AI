@@ -29,7 +29,7 @@ The model-generated music need not be professional, as long as it is melodious a
 * Keras - Deep Learning Library
 * **Dataset** : https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi
 
-## Notebook Workflow
+## Notebook Implementation
 * Importing required Libraries
 * Reading Musical Files
 * Data Preparation
