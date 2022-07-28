@@ -30,6 +30,14 @@ The model-generated music need not be professional, as long as it is melodious a
 * Keras - Deep Learning Library
 * **Dataset** : https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi
 
+## Notebook Workflow
+* Importing required Libraries
+* Reading Musical Files
+* Data Preparation
+* Build LSTM model
+* Hyperparameter tuning.
+* Run the last cell and a file named as Composed_music_output.mid will be saved
+* Playing the saved file 
 ## Acknowledgements
 
  - [LSTMs for Music Generation](https://towardsdatascience.com/lstms-for-music-generation-8b65c9671d35)
