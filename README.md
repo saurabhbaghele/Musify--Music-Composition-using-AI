@@ -2,24 +2,34 @@
 This repository contains the code for the project I completed for the Seasons of Code 2022, hosted by Web and Coding Club, IIT Bombay.
 
 # MUSIFY- Music-Composition-Using-AI
-This repository has been developed to generate a totally new piece of audio file (music) by training a LSTM network using a set of midi audio music files (piano notes).
-
-## About the Project
-
-* **Platform** : Colab Notebook
-* **Language** : Python 3.8
-* **Libraries Used** : Tensorflow, Music21, Keras, NumPy, Sklearn, tqdm
-* **Dataset** : https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi
+This repository has been developed to build a model that takes existing music data as input learns the pattern and generates "new" music.
+The model-generated music need not be professional, as long as it is melodious and good to hear.
 
 ## Learning Objective
+* To compose the music anyone need not to be expert even the non-musician like me can also generate the music using the deep learning concepts.
 * General idea of concept of Automatic Music Generation for processing a short piece of music with minimum human intervention.
-* Learning various python libraries and packages including Numpy, Pandas, Tensorflow, json, os, Music21 
-* Implementation of music generation using deep learning models such as LSTM and RNN.
+* The objective of the project is to explore the deep learning field and compose the music using artificial intellgence .
+* This project case particulary focuses on the LSTM and RNN for the music generation.
+
+## What is Music ?
+* Music as a collection of tones of different frequencies.
+* Input- Sequence of musical events/notes.
+* Output- New sequence of musical events/notes.
 
 ## File Structure
-* **All Midi Files/** : This is the dataset folder containing various midi files of different composers.
-* **code.ipynb** : In this file, we will build, train and test our model.
-* **MOD/** : This directory contains optimizer, metrics, and weights of our trained model.
-* **AI_composed_music.mid** : This is a music file of predicted notes.
+* **All Midi Files** -> This is the dataset folder containing various midi files of different composers.
+* **MOD/** -> This directory contains optimizer, metrics, and weights of our trained model.
+* **music_composition_code.ipynb** -> In this file, we will build, train and test our model.
+* **Composed_music_output.mid** -> This is a music file of predicted notes.
+
+
+## Built with
+* ipython-notebook - Google Colab 
+* numpy, scipy- number python library
+* pandas - data handling library
+* Keras - Deep Learning Library
+* **Dataset** : https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi
+
+
 
 
