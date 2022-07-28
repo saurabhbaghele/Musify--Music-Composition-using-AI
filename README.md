@@ -12,7 +12,7 @@ This repository has been developed to generate a totally new piece of audio file
 * **Dataset** : https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi
 
 ## Learning Objective
-* General idea of concept of Automatic Music Generation with minimum human intervention.
+* General idea of concept of Automatic Music Generation for processing a short piece of music with minimum human intervention.
 * Learning various python libraries and packages including Numpy, Pandas, Tensorflow, json, os, Music21 
 * Implementation of music generation using deep learning models such as LSTM and RNN.
 
