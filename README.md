@@ -30,6 +30,10 @@ The model-generated music need not be professional, as long as it is melodious a
 * Keras - Deep Learning Library
 * **Dataset** : https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi
 
+## Acknowledgements
 
+ - [Music Generation Using Deep Learning](https://medium.com/mlearning-ai/music-generation-using-deep-learning-49692851c57c)
+ - [LSTMs for Music Generation](https://towardsdatascience.com/lstms-for-music-generation-8b65c9671d35)
+ - [Want to Generate your own Music using Deep Learning?](https://www.analyticsvidhya.com/blog/2020/01/how-to-perform-automatic-music-generation/)
 
 
